@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[XPACIO]]></title>
         <description><![CDATA[XPACIO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xpacio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:15:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 18:27:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xpacio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome / Bienvenido</p>]]></description>
+            <link>https://thegrid.ai/xpacio/welcome-bienvenido/index.html</link>
+            <guid isPermaLink="false">4f2f7833-281e-4804-9516-e71a104145d8</guid>
+            <pubDate>Wed, 27 Apr 2016 18:26:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/304b4c0b-4ded-4c87-98de-9a4cda0ad3a7.jpg">]]></description>
-            <link>undefinedxpacio-proyects-are-lorem-ipsum-dolor-sit-amet-a-wacho-me-fu/index.html</link>
+            <link>https://thegrid.ai/xpacio/xpacio-proyects-are-lorem-ipsum-dolor-sit-amet-a-wacho-me-fu/index.html</link>
             <guid isPermaLink="false">78aba9b7-8650-418a-abb1-8e700612951f</guid>
             <pubDate>Wed, 27 Apr 2016 18:15:49 GMT</pubDate>
         </item>
