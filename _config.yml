@@ -1,0 +1,28 @@
+name: XPACIO
+favicon: null
+layout_spectrum: 0.009008030639961362
+typography_spectrum: 0.4947406800929457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08747722185216844
+  lightness: 0.10084347729571164
+  saturation: 0.9903721266891807
+  rhythmicContrast: 0.4295553711708635
+purpose: []
